@@ -1,0 +1,12 @@
+1).what is singleton obect in angular JS ?
+
+ans).	AngularJS creates an object from this constructor function and injects it. A service is 	a singleton. AngularJS instantiates the service object only once and all other 		components share the same instance. Services are lazily instantiated.
+
+2).what is service in angular ?
+
+ans).	AngularJS services are substitutable objects that are wired together using dependency 		injection (DI). You can use services to organize and share code across your app. 		AngularJS services are: Lazily instantiated – AngularJS only instantiates a service 		when an application component depends on it.
+
+3).Why services are used in AngularJS?
+ans).	Angularjs Services are functions or objects and are used to do specific tasks. ... 	These are also called as singletons, which are the objects that are instantiated only 	once per application. Services are injected using Dependency Injection Mechanism of 	Angularjs.
+4).Why do we use services?
+ans).	Web Services allows different applications to talk to each other and share data and 	services among themselves. ... For example VB or .NET application can talk to java web 	services and vice versa. So, Web services is used to make the application platform and 	technology independent.
