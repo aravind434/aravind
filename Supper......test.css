@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<tittle>background properties</tittle>
+<style type="text/css">
+body
+{
+background-color:lightblue;
+background-image:url("C:\Users\aravind\Desktop\html\images\lunch.jpg");
+background-size:100px 100px;
+background-position:200px 25px;
+}
+</style>
+</head>
+<body>
+chicken biryani
+mutton biryani
+chapathi
+</body>
+</html> 
